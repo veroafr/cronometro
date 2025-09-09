@@ -1,4 +1,4 @@
-# Lap Timer MVVM (Flutter)
+# Cronometro (Flutter)
 
 Cronômetro de voltas com MVVM, acessibilidade e notificações locais.
 
