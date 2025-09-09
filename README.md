@@ -28,8 +28,5 @@ flutter run
 ## Permissões
 Android 13+: `POST_NOTIFICATIONS` (o plugin solicitará em tempo de execução).
 
-## Captura
-![screenshot](docs/screenshot.png)
-
 ## Vídeo
 [![Mira el video](https://img.youtube.com/vi/eicSrLuzb_M/hqdefault.jpg)](https://www.youtube.com/watch?v=eicSrLuzb_M)
