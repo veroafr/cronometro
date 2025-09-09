@@ -32,4 +32,4 @@ Android 13+: `POST_NOTIFICATIONS` (o plugin solicitará em tempo de execução).
 ![screenshot](docs/screenshot.png)
 
 ## Vídeo
-Adicione aqui o link para sua demonstração (YouTube/GIF).
+[![Mira el video](https://img.youtube.com/vi/eicSrLuzb_M/hqdefault.jpg)](https://www.youtube.com/watch?v=eicSrLuzb_M)
