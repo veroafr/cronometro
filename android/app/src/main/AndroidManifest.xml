@@ -1,0 +1,11 @@
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.laptimermvvm">
+   <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+
+    <application
+        android:label="lap_timer_mvvm"
+        android:name="${applicationName}"
+        android:icon="@mipmap/ic_launcher">
+
+    </application>
+</manifest>
